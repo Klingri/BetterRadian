@@ -1,0 +1,44 @@
+{
+  "name": "BetterRadian",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "1.0 17.09.2026",
+  "host_permissions": [
+    "https://pastebin.com/*",
+    "https://playradian.com/*"
+  ],
+  "permissions": [
+    "storage",
+    "activeTab",
+    "declarativeNetRequest",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://playradian.com/*"
+      ],
+      "css": [
+        "style.css"
+      ],
+      "js": [
+        "script.js"
+      ],
+      "run_at": "document_idle",
+      "world": "MAIN",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "style.css",
+        "images/*.png",
+        "assets/fonts/*"
+      ],
+      "matches": [
+        "https://playradian.com/*"
+      ]
+    }
+  ]
+}

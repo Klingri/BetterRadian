@@ -1,0 +1,106 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-size: smaller !important;
+    font-weight: lighter !important;
+}
+
+.game-detail-play-btn {
+    border-radius: 0px !important;
+    width: 300px !important;
+    text-align: center !important;
+    border: none !important;
+    font-weight: lighter !important;
+}
+
+.game-detail-title,
+.game-detail-image,
+.game-detail-description h3,
+.button,
+.search-bar,
+.home-greeting,
+.home-panel-header,
+.game-tile-name,
+.player-greeting,
+#app h1,
+.game-card-body,
+.game-card-title,
+.game-card-meta,
+.avatar-color-picker-label,
+.catalog-item-price,
+.game-tile-name,
+.relation-btn.danger {
+    font-weight: lighter !important;
+}
+
+.game-detail-image,
+.search-bar,
+.game-detail-panel,
+.avatar-color-picker-label,
+.avatar-swatch-grid,
+.avatar-swatch,
+.catalog-grid,
+.catalog-item,
+.game-card,
+.home-friends-row,
+.friend-tile,
+.home-tile-row,
+.game-tile,
+.friend-tile-thumb,
+.bio,
+.relation-btn.danger,
+.profile {
+    border-radius: 0px !important;
+}
+
+.search-bar {
+    outline: none !important;
+}
+
+.game-detail-image {
+    max-height: 400px !important;
+}
+
+.game-detail-image {
+    max-height: 400px !important;
+}
+
+.bio {
+    background: none !important;
+    border: none !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25) !important;
+    background-color: rgb(58, 129, 170) !important;
+}
+
+.player-greeting,
+.home-stats span,
+#app h1,
+.home-panel-header {
+    text-align: center !important;
+}
+
+.profile {
+    width: 100vh !important;
+    height: 100vh !important;
+}
+
+.home-body {
+    align-items: center !important;
+    justify-items: center;
+}
+
+.game-tile-name,
+.game-tile-meta {
+    padding: 4px !important;
+}
+
+.home-panel-header:hover,
+.home-stats span,
+.friend-tile-name {
+    padding-left: 11px !important;
+}
+
+a:hover, span:hover, p:hover, h1:hover,h2:hover,h:hover,h4:hover,h5:hover,h6:hover {
+    color: grey !important;
+}
+
+/* I see you spying on my code, this won't be updated ever anyways, feel free to learn from this styles and code */
