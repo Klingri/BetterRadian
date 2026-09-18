@@ -2,7 +2,7 @@
 
 ### BetterRadian
 
-<p><a href="https://klingri.github.io/BetterRadian/">BetterRadian</a> is a browser extension for the Radian platform, created on September 17, 2026.</p>
+<p><a href="https://github.com/Klingri/BetterRadian/">BetterRadian</a> is a browser extension for the Radian platform, created on September 17, 2026.</p>
 
 #### Step-by-Step Installation:
 1. **Download:** Go to the [Releases](https://github.com/Klingri/BetterRadian/releases) page and download the latest `Source code (zip)`.
