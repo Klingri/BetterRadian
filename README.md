@@ -19,3 +19,5 @@
    - Yandex: `browser://extensions`
 4. **Developer Mode:** Toggle the **Developer mode** switch in the top right.
 5. **Load Unpacked:** Click **"Load unpacked"** and select the folder you just extracted.
+
+#### This project won't ever be updated again.
